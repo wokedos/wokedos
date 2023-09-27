@@ -12,3 +12,5 @@
   <a href="https://open.spotify.com/artist/0L6fZxvMtPVIbwZIaeXGV2?si=KoXH3RYeQzayWhyql6O4gA"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
 
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wokedos)](https://github.com/anuraghazra/github-readme-stats)
