@@ -14,5 +14,3 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wokedos&show_icons=true&theme=dark)
-
-# I SWEAR THIS WILL INCREASE
